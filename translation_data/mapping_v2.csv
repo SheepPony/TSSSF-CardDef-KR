@@ -1,0 +1,15 @@
+번호,{keyword},Main Text,메인 텍스트
+1,{copy},"You may copy the power of any Pony card currently on the shipping grid, except for Changelings.","(복사): 체인질링을 제외한, 현재 필드에 있는 아무 포니 카드의 능력을 복사할 수 있습니다."
+2,{draw},You may draw 1 card from the Ship or Pony deck.,(뽑기): 커플링 카드 덱 또는 포니 카드 덱에서 카드 1장을 뽑을 수 있습니다.
+3,{new goal},You may discard 1 active Goal and draw 1 new one to replace it.,"(새 목표): 활성화된 목표 카드 1장을 버리고, 이를 대체할 새 목표 카드 1장을 뽑을 수 있습니다."
+4,{replace},"While in your hand, you may discard a Pony card from the grid and play this card in its place. This power cannot be copied.","(교체): 이 카드가 손패에 있는 경우, 필드에서 포니 카드 1장을 버리고 그 자리에 이 카드를 낼 수 있습니다. 이 능력은 복사할 수 없습니다."
+5,{search},"You may search the Ship or Pony discard pile for 1 card of your choice and put it into your hand. If it's still in your hand at the end of your turn, discard it.",(탐색): 버린 커플링 카드나 포니 카드 더미에서 카드 1장을 골라 손패로 가져올 수 있습니다. 차례가 끝날 때 그 카드가 손패에 있다면 버립니다.
+6,{swap},You may swap 2 Pony cards on the shipping grid.,(스왑): 필드 위 포니 카드 2장의 자리를 서로 바꿀 수 있습니다.
+7,{gender change},"When you attach this card to the grid, you may choose one Pony card attached to this Ship. Until the end of your turn, that Pony card becomes the opposite gender.","이 카드를 필드에 낼 때, 이 커플링과 연결된 포니 카드 1장을 선택할 수 있습니다. 차례가 끝날 때까지, 그 카드는 반대 성별로 간주합니다."
+8,{love poison},"Instead of playing this ship with a Pony card from your hand, or connecting two ponies already on the grid, take a Pony card from the shipping grid and reattach it elsewhere with this Ship. That card's power activates.","이 카드의 한 쪽을 필드와 연결한 후, 필드 위 다른 곳의 포니 카드 1장을 가져와 이 카드와 연결할 수 있습니다. 이 능력을 사용했다면, 가져온 포니 카드의 능력이 발동됩니다."
+9,{play from discard},"You may choose to play the top card of the Pony discard pile with this Ship, rather than play a Pony card from your hand.","자신의 손패에서 포니 카드를 내지 않고, 버린 포니 카드 더미 맨 위에 있는 포니 카드를 가져와 이 카드와 연결할 수 있습니다."
+10,{race change},"When you attach this card to the grid, you may choose one Pony card attached to this Ship. Until the end of your turn, that Pony card becomes a race of your choice. This cannot affect Changelings.","이 카드를 필드에 낼 때, 이 커플링과 연결된 포니 카드 1장을 선택할 수 있습니다. 차례가 끝날 때까지, 그 카드는 플레이어가 지정한 종족으로 간주합니다. 이 카드는 체인질링에게는 효과를 줄 수 없습니다."
+11,{timeline change},"When you attach this card to the grid, you may choose one Pony card attached to this Ship. Until the end of your turn, that Pony card counts as {postapocalypse}.","이 카드를 필드에 낼 때, 이 커플링과 연결된 포니 카드 1장을 선택할 수 있습니다. 차례가 끝날 때까지, 그 카드는 {postapocalypse}로 간주합니다."
+12,{win this goal when},Win this Goal when:,다음 상황에서 이 목표가 달성됩니다:
+13,{clone},"When you attach this card to the grid, you may choose one Pony card attached to this Ship. Until the end of your turn, that Pony card counts as 2 Ponies.","이 카드를 필드에 낼 때, 이 커플링과 연결된 포니 카드 1장을 선택할 수 있습니다. 자신의 턴이 끝날 때 까지, 그 카드는 포니 2마리로 간주합니다."
+14,{keyword change},"When you attach this card to the grid, you amy choose one Pony card attached to this Ship. Until the end of your turn, that Pony card counts as having any one keyword of your choice, except pony names.","이 카드를 필드에 낼 때, 이 커플링과 연결된 포니 카드 1장을 선택할 수 있습니다. 자신의 턴이 끝날 때까지, 그 카드는 자신이 정한 임의의 키워드(포니 이름 제외)를 가지는 것으로 간주합니다."
