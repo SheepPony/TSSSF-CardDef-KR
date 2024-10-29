@@ -11,7 +11,7 @@ def escape(s):
 ## Keyword Mappings
 # Read CSV
 # CSV Columns: NUMBER KEYWORD EN_TEXT KR_TEXT
-with open("TranslationData/mapping_v2.csv","r",encoding="utf-8") as f:
+with open("translation_data/mapping_v2.csv","r",encoding="utf-8") as f:
 	csv_rows=list(csv.reader(f))
 
 # Skip header
@@ -86,11 +86,11 @@ def parse_csv_v2(filepath):
 
 # Gather all translation data
 translation_data=dict()
-translation_data.update(parse_csv_v2("TranslationData/pony_v2.csv"))
-translation_data.update(parse_csv_v2("TranslationData/goal_v2.csv"))
-translation_data.update(parse_csv_v2("TranslationData/ship_v2.csv"))
-translation_data.update(parse_csv_v2("TranslationData/ECgoal_v2.csv"))
-translation_data.update(parse_csv_v2("TranslationData/ECship_v2.csv"))
+translation_data.update(parse_csv_v2("translation_data/pony_v2.csv"))
+translation_data.update(parse_csv_v2("translation_data/goal_v2.csv"))
+translation_data.update(parse_csv_v2("translation_data/ship_v2.csv"))
+translation_data.update(parse_csv_v2("translation_data/ECgoal_v2.csv"))
+translation_data.update(parse_csv_v2("translation_data/ECship_v2.csv"))
 
 
 def translate(ponE,ponK):
